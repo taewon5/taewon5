@@ -1,4 +1,4 @@
-![제목을 입력해주세요 -001](https://user-images.githubusercontent.com/83406220/122244933-3e790400-cf00-11eb-9ece-3001f901e4af.png)
+
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
@@ -11,3 +11,5 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp  
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a> &nbsp  
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taewon5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taewon5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
