@@ -12,4 +12,4 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a> &nbsp  
 
 
-github-readme-stats.vercel.app/api?username=taewon5&show_icons=true
+github-readme-stats.vercel.app/api?username={taewon5}&show_icons=true
